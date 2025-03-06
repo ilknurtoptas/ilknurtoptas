@@ -1,6 +1,6 @@
 ## Ilknur Toptas
 
-Currently enrolled in University of Toronto for Data Analytics and Visualizations
+Currently enrolled in University of Toronto for Data Analytics
 
 
 
@@ -10,7 +10,8 @@ LinkedIn:www.linkedin.com/in/ilknurtoptas
 
 Tools:
 
-![image](https://github.com/user-attachments/assets/726f36f1-0343-4d2d-a4b5-dac2075714e7)
+![image](https://github.com/user-attachments/assets/5089d7bb-b24f-44e8-a450-b4212d49ba2e)
+
 
 
 
