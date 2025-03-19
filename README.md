@@ -8,9 +8,8 @@ Email:ilknurr.toptass@gmail.com
 
 LinkedIn:www.linkedin.com/in/ilknurtoptas 
 
-Tools:
+Tools: SQL, EXCEL, PYTHON, POSTGRESQL, MONGODB, JAVASCRIPT, TABLEU, SPSS, STATA, AMOS, EVIEWS, LEAFLET, HTML, CSS
 
-![image](https://github.com/user-attachments/assets/5089d7bb-b24f-44e8-a450-b4212d49ba2e)
 
 
 
